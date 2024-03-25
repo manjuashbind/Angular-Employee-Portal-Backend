@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin luminar",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "23",
+      "name": "Maneesha",
+      "email": "maneesha@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "33",
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "8",
+      "name": "Lena Thomas",
+      "email": "lenathomas@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "name": "Rajesh Mohan",
+      "email": "rajeshmohan@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "11",
+      "name": "Jasni Sayed",
+      "email": "jasnisayed@gmail.com",
+      "active": "1"
+    }
+  ]
+}
